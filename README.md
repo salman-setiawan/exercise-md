@@ -1,5 +1,5 @@
 ## Jawaban No.1
-PROCEDURAL    = pendekatan terstruktur untuk pengkodean program di mana fungsionalitas program dipecah menjadi beberapa fungsi agar lebih mudah diikuti
+PROCEDURAL    = statement yang sudah ada dan sifatnya terurut
 
 CONDITIONAL   = statement percabangan yang menggambarkan suatu kondisi
 
