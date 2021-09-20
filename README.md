@@ -11,4 +11,4 @@ FOR LOOP      = digunakan jika kita tahu nilai pasti untuk perulangannya
 
 WHILE LOOP    = digunakan jika kita tidak tahu nilai pasti untuk perulangannya
 
-DO WHILE      = digunakan jika kita ingin setidaknya menjalankan pengulangan 1 kali sebelum dilakukan pengecekan kondisi
+DO WHILE      = digunakan jika kita ingin menjalankan pengulangan 1 kali kemudian mengecek kondisi statement yang kita berikan
