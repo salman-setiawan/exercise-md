@@ -5,7 +5,7 @@ CONDITIONAL   = statement percabangan yang menggambarkan suatu kondisi
 
 LOOPING       = statement yang mengulang sebuah instruksi hingga kondisi terpenuhi
 ## Jawaban No.2
-ketika memecahkan suatu masalah yang sifatnya mengulang suatu instruksi yang diberikan
+ketika memecahkan suatu instruksi/masalah yang sifatnya berulang-ulang kali
 ## Jawaban No.3
 FOR LOOP      = digunakan jika kita tahu nilai pasti untuk perulangannya
 
